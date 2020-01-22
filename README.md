@@ -1,12 +1,7 @@
 # LuckySixes
 Student project: a simple game made in Java
 
-The following is a report detailing how the game “Lucky Sixes” was developed. It contains a class diagram, class descriptions, an extensibility assessment and an overview of the advanced feature included. 
-
-Class Diagram
-
- 
-
+The following is a report detailing how the game “Lucky Sixes” was developed. It contains class descriptions, an extensibility assessment and an overview of the 'advanced' feature included. 
 
 Class Descriptions
 
