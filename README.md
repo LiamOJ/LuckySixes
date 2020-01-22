@@ -1,5 +1,5 @@
 # LuckySixes
-Student project: a simple game made in Java
+Student project: a simple game made in Java. Result: 88%
 
 The following is a report detailing how the game “Lucky Sixes” was developed. It contains class descriptions, an extensibility assessment and an overview of the 'advanced' feature included. 
 
